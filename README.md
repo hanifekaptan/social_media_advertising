@@ -20,10 +20,9 @@ Makine Öğrenimi: Scikit-learn kütüphanesi kullanılarak çeşitli makine ö�
 Korelasyon Analizi: Değişkenler arasındaki ilişkilerin incelenmesi için korelasyon matrisleri oluşturulmuştur.
 
 
-https://www.kaggle.com/code/hanifekaptan/data-analysis-bootcamp-social-media-advertising
-Proje ile ilgili veri setine Kaggle üzerinden buradan ulaşabilirsiniz.
 
-Sonuç
-Bu proje, sosyal medya reklamlarının etkinliğini değerlendirmek ve kullanıcı etkileşimlerini analiz etmek için kapsamlı bir yaklaşım sunmaktadır. Elde edilen bulgular, reklam stratejilerinin geliştirilmesine ve daha etkili kampanyaların oluşturulmasına katkı sağlayacaktır.
+Proje ile ilgili veri setine Kaggle üzerinden buradan ulaşabilirsiniz:
+
+https://www.kaggle.com/code/hanifekaptan/data-analysis-bootcamp-social-media-advertising
 
 Projenizle ilgili daha fazla bilgi veya katkı sağlamak isterseniz, lütfen iletişime geçin.
