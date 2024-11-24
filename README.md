@@ -32,6 +32,13 @@ Veri Analizi: Pandas, NumPy, scipy kütüphaneleri kullanılarak veri analizi ve
 Veri Görselleştirme: Matplotlib ve Seaborn kütüphaneleri ile verilerin görselleştirilmesi sağlanmıştır.
 Korelasyon Analizi: Değişkenler arasındaki ilişkilerin incelenmesi için korelasyon matrisleri oluşturulmuştur.
 
+## **Sonuç ve Tavsiyeler**
+- Kampanya süresi edinim maliyeti üzerinde etkilidir.
+- Müşteri edinim maliyetlerini düşük tutmak isteyen şirketler, kampanya sürelerini kısaltma yönünde adım atmalıdır.
+- Kampanyanın süresinin uzaması, edinim maliyeti açısından anlamlı ve pozitif yönlü bir fark yaratmaktadır.
+- Projenin ilerleyen adımlarında, belirli kampanya sürelerinde ve diğer parametrelerden de faydalanarak, müşteri edinim maliyet tahmini veya belirlenen bir müşteri edinim maliyeti temelinde, ideal kampanya süreleri tahmin edilebilir.
+- Bu proje, müşteri edinim maliyetini yönetmek ve veriye dayalı bir şekilde karar almak isteyen şirketlerin, çeşitli parametreleri yönetmesi işlemlerinde de kullanılabilir.
+- Bu veri seti üzerinde, verinin boyutu göz önüne alındığında, yapay sinir ağları kullanılabilir.
 
 Proje ile ilgili veri setine Kaggle üzerinden buradan ulaşabilirsiniz:
 
